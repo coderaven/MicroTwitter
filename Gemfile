@@ -2,9 +2,6 @@ source 'http://rubygems.org'
 
 gem 'rails'
 gem 'ZenTest'
-gem 'autotest'
-gem 'autotest-rails-pure'
-gem 'autotest-growl'
 gem 'test-unit'
 gem 'win32console'
 
