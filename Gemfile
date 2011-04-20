@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'rails', '3.0.5'
+gem 'rails'
 gem 'ZenTest'
 gem 'autotest'
 gem 'autotest-rails-pure'
