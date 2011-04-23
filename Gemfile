@@ -1,7 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'rails', '3.0.3'
-gem 'activesupport', '3.0.3'
+gem 'rails'
 gem 'ZenTest'
 gem 'test-unit'
 gem 'win32console'

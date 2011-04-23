@@ -93,8 +93,7 @@ PLATFORMS
 
 DEPENDENCIES
   ZenTest
-  activesupport (= 3.0.3)
-  rails (= 3.0.3)
+  rails
   rspec
   rspec-rails
   spork
