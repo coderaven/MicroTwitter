@@ -5,7 +5,6 @@ gem 'ZenTest'
 gem 'test-unit'
 gem 'win32console'
 
-
 group :development do
   gem 'rspec-rails'
 end
