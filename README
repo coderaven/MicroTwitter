@@ -1,7 +1,7 @@
 # MicroTwitter
 
-This application will serve as my first application written in Ruby and is guided by the Rails Tutorial book.
-
-I'll make this worth your time looking as I willl customize this app in any way that I could.
+Twitter like micro web application created using Ruby on Rails framework.
+MicroTwitter will have all the base features twitter has and is open for 
+everyone to take it as a base for twitter like web apps.
 
 -Raven
